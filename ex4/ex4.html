@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Formulario</title>
+</head>
+<body>
+
+	<h1>Formulario</h1>
+	<form>
+		<label for="nome">Nome:</label>
+		<input type="text" name="nome"><br>
+		<label for="email">Email: </label>
+		<input type="email" name="email"><br>	
+		<label for="senha">Senha: </label>
+		<input type="password" name="senha"><br>	
+		<br>
+		
+		<label for="Sexo">Sexo:</label><br>
+		<label for="homem">Masculino</label>
+		<input type="radio" name="sexo" value="homem"><br>
+		<label for="mulher">Feminino</label>
+		<input type="radio" name="sexo" value="mulher"><br>
+		<br>
+
+		<label for="Tecnologias">Tecnologias:</label><br>
+		<input type="checkbox" name="HTML">HTML<br>
+		<input type="checkbox" name="CSS">CSS<br>
+		<input type="checkbox" name="Java">Java<br>
+		<input type="checkbox" name="PHP">PHP<br>
+		<br>
+
+		<label for="Descrição Pessoal:">Tecnologias:</label><br>
+		<input type="textarea" ><br>
+		<textarea rows="5" cols="20" placeholder="Digite aqui..."></textarea>
+		<br>
+		<label for="Opção">Opção:</label><br>
+		<select>
+			<option>Opção1</option>
+			<option>Opção2</option>
+			<option>Opção3</option>
+			<option>Opção4</option>
+		</select>
+
+		<br>
+		<br>
+		<input type="button" value="Enviar" onclick="msg()">
+		<br>	
+		<input type="button" value="Limpar" onclick="msg()">
+
+	</form>
+
+</body>
+</html>
