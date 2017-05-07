@@ -1,0 +1,90 @@
+#site{
+		padding-bottom: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: blue; 
+}
+p{
+	color: white;
+}
+#header{
+	padding-bottom: 20px;
+	margin-left: 3%;
+	margin-right: 3%;
+	background-color: #191970;
+}
+#banner{
+		margin-left: 3%;
+	margin-right: 3%;
+
+	padding-bottom: 15px;
+
+	background-color: #191970; 
+}
+#conteudo{
+		margin-left: 3%;
+	margin-right: 3%;
+	background-color: #191970; 
+
+	padding-bottom: 15px;
+
+}
+#fotter{
+		margin-left: 3%;
+	margin-right: 3%;
+	background-color: #191970;
+
+	padding-bottom: 15px;
+ 	
+}
+#logo{
+		margin-left: 1%;
+	margin-right: 1%;
+	background-color: #ccccff;
+
+	padding-bottom: 15px;
+}
+#menu{
+		margin-left: 1%;
+	margin-right: 1%;
+	background-color: #ccccff;
+
+	padding-bottom: 15px;
+}
+
+#comentario{
+		margin-left: 1%;
+	margin-right: 1%;
+	background-color:#ccccff;
+
+	padding-bottom: 15px;
+}
+#esquerdo{
+		margin-left: 1%;
+	margin-right: 1%;
+	background-color: #ccccff;
+
+	padding-bottom: 15px;
+}
+#direito{
+		margin-left: 1%;
+	margin-right: 1%;
+
+	padding-bottom: 15px;
+	background-color: #ccccff;
+}
+#copyrighter{
+		margin-left: 1%;
+	margin-right: 1%;
+
+	padding-bottom: 15px;
+	background-color: #ccccff;
+}
+.noticia{
+
+		margin-left: 1%;
+	margin-right: 1%;
+		padding-bottom: 15px;
+
+	background-color: #b3b3ff; 
+}
